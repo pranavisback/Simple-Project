@@ -2,8 +2,6 @@
 
 A sleek and modern interactive demo showcasing a Google AI-inspired user interface with dark/light theme support.
 
-![Google AI Experience](https://via.placeholder.com/800x400?text=Google+AI+Experience)
-
 ## 🚀 Features
 
 - **Interactive Background**: Animated gradient spheres that respond to mouse movement
@@ -25,14 +23,6 @@ A sleek and modern interactive demo showcasing a Google AI-inspired user interfa
 - CSS3 (with CSS variables for theming)
 - Vanilla JavaScript (no frameworks)
 - Responsive design principles
-
-## 🔍 Preview
-
-### Dark Mode
-![Dark Mode](https://via.placeholder.com/400x200?text=Dark+Mode)
-
-### Light Mode
-![Light Mode](https://via.placeholder.com/400x200?text=Light+Mode)
 
 ## 🚀 Getting Started
 
