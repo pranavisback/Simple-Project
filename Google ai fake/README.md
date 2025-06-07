@@ -28,7 +28,7 @@ A sleek and modern interactive demo showcasing a Google AI-inspired user interfa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/google-ai-experience.git
+   git clone https://github.com/pranavisback/Simple-Project.git
    ```
 
 2. Open `index.html` in your browser or use a local server:
@@ -53,7 +53,7 @@ The theme toggle in the navigation bar allows users to switch between dark and l
 
 ## 👨‍💻 Created By
 
-[Your Name]
+Pranav Pawar
 
 ## 📜 License
 
